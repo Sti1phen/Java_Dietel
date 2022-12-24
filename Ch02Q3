@@ -1,0 +1,97 @@
+// Question 3a.
+int c;
+int thisIsAVariable;
+int q76354;
+
+//Question 3b
+Scanner input = new Scanner(System.in);
+	System.out.print("Enter the name: ");
+
+//Question 3c
+int value;
+
+value = input.nextInt();
+
+//Question 3d
+System.out.println("This is a Java Program"):
+
+//Question 3e
+System.out.printf("%s\n%s\n", "This is a Java", "Program");
+
+\\Question 3f
+int x;
+if (x<0)
+  System.out.println("The number is negative");
+  
+  
+//QUESTION 4
+// Question 4a
+if (c < 7)
+	System.out.println("c is less than 7");
+	
+//Queston 4b
+if (c >= 7)
+	System.out.println("c is greater than or equal to 7);
+
+//QUESTION 5
+a. //This program calculates the total mark obtained in three tests
+
+b. Scanner input = new Scanner(System.in);
+
+c. int t1, t2, t3, total;
+
+d. System.out.print("Enter the mark in the first test: ");
+
+e. 
+t1 = input.nextInt();
+
+f. System.out.print("Enter the mark in the second test: ");
+
+g. t2 = input.nextInt();
+
+h. System.out.print("Enter the mark in the third test: ");
+
+i. t3 = input.nextInt();
+
+j. total = t1 + t2 + t3;
+
+k. System.out.printf("Total marks: %d\n", total);
+
+
+//EXERCISES
+//Question 2.8
+a. System.out.println("Enter Age: ");
+b. z = x % y;
+c. //Calculation of Average Marks in Three tests
+
+//Question 2.9
+a. false _ Multiplication and division is executed first because they have a 						higher order of preference
+b. false _ AccountValues, X!, US$, $value all do not begin with small case letter so they are not valid variable names.
+c. false _ division quotient has the highest order of precedence
+d. True
+
+//Question 2.10
+a. System.out.printf("x = %d%n", x + 5); displays x = 10;
+b. System.out.printf("Value of %d * %d is %d\n", x, y, (x*y)); displays Value of 5 * 1 is 5;
+c. System.out.printf(System.out.printf("x is %d and y is %d", x, y); displays x is 5 and y is 1;
+d. System.out.printf("%d is not equal to %d\n", (x+y), (x*y)); displays 6 is not equal to 5;
+
+// Question 2.11
+a. p = 1 + j + k + 7
+d. value = input.nextInt();
+
+// Question 2.12
+a, b, d
+
+//Question 2.13
+a. *, +, -
+b. %, *, /,+, -
+c. 3, 1, 9, *, 3,*
+
+//Question 2.14
+
+
+
+
+
+
